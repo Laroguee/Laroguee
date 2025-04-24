@@ -1,3 +1,4 @@
+![Header](./github-header-image)
 <h1 align="center">Hi 👋, I'm Luis Alejandro Ramos</h1>
 <h3 align="center">A Biomedical Engineer 4th year student with a great passion in programming</h3>
 
